@@ -5,27 +5,10 @@ l'Arkansas.
 Ce projet a pour objectif de développer un modèle de machine learning capable de prédire les ventes hebdomadaires des magasins avec une précision maximale. Un tel modèle permettra de mieux comprendre l'impact des indicateurs économiques sur les ventes et servira de base pour planifier les futures campagnes marketing.
 
 ## Structure du projet
-├── data
-
-│   ├── raw
-
-│   ├── processed
-
-├── notebooks
-
-├── scripts
-
-├── reports
-
-│   ├── figures
-
-│   ├── tables
-
-├── requirements.txt
-
-├── README.md
-
-└── LICENSE
+- **data**: Contient les données du projet.
+- **Notebook_ML**: Contient les notebooks Jupyter.
+- **requirements.txt**: Fichier listant les dépendances du projet.
+- **README.md**: Fichier de documentation du projet.
 
 ## Prérequis - Installations
 * Avoir un éditeur de code (Visual Studio Code par exemple)
@@ -36,7 +19,7 @@ pip install -r requirements.txt
 ## I. Dossier du projet
 Clonez ce dépôt pour créer votre dossier de projet :
 
-`git clone https://github.com/nbarry96/rnaSeq.git`
+`git clone https://github.com/nbarry96/ML-Supervis-.git`
 
 Placez-vous dans le répertoire du projet **Supervised_ML** :
 
