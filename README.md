@@ -5,7 +5,7 @@ l'Arkansas.
 Ce projet a pour objectif de développer un modèle de machine learning capable de prédire les ventes hebdomadaires des magasins avec une précision maximale. Un tel modèle permettra de mieux comprendre l'impact des indicateurs économiques sur les ventes et servira de base pour planifier les futures campagnes marketing.
 
 ## Structure du projet
-- **data**: Contient les données du projet.
+- **walmart_project_supervised_ifpass.csv**: Contient les données du projet.
 - **Notebook_ML**: Contient les notebooks Jupyter.
 - **requirements.txt**: Fichier listant les dépendances du projet.
 - **README.md**: Fichier de documentation du projet.
@@ -23,13 +23,12 @@ Clonez ce dépôt pour créer votre dossier de projet :
 
 Placez-vous dans le répertoire du projet **Supervised_ML** :
 
-cd Supervised_ML
 ```bash
-cd Supervised_ML
+cd ML_Supervis-
 ```
 
 ## II. Exécution
-Faire tourner le Notebook `Notebook_NeneOumouBARRY.ipynb`
+Exécuter le notebook `Notebook_ML.ipynb` dans un éditeur de code.
 
 ## III.Description des données
 Le jeu de données initial contient 6435 entrées et comporte 9 variables. Ces variables
@@ -50,4 +49,7 @@ Le jeu de données utilisé pour ce projet est fourni par Jedha Bootcamp. Vous p
 * Régression linéaire simple
 * Régression linéaire régularisée
 * Random Forest Regressor
+
+## VII. Author
+Nene Oumou BARRY
 
